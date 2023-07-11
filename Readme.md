@@ -26,7 +26,7 @@ pip install -r requirements.txt
 To deploy this project run:
 
 ```bash
-python app.py
+python main.py
 ```
 ## Screenshots
 
